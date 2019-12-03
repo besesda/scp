@@ -1,0 +1,19 @@
+*{margin: 0px; padding:0px clear: both;}
+body {background-color:#94c320;font-size:40;font-family:calibri;}
+
+
+div {border:8px solid grey;font-size:30px;font-family:calibri;}
+
+article {width:70%;float:left}
+footer {background-color:#91bf22; padding:250px;text-align:right;color:red;text-transform:uppercase;}
+aside {width:40%;border:1px solid grey;float:left;margin-left:200px; padding:200px clear: both;}
+.div-class {border:10px solid violet;font-size:30px;font-family:calibri;}
+.div-good {border:8px solid grey;font-size:30px;font-family:calibri;}
+header {background-color:#67d06f; padding:200px;text-align:center;color:yellow;text-transform:uppercase;}
+.div-polly {border:20px solid ;font-size:300px;font-family:calibri;}
+.div-her {border: 30px solid pink;font-size:400px;font-family:calibri;}
+ul {background-color:#d2e89b;float:right;margin-right:50px;padding:200px clear: both;}
+	p {background-color:#12b5e6;float:right;margin-right:50px;padding:500px clear:both;}
+.div-top {border:30px solid #67d06f;font-siZe:50px;font-family:calibri;position:absolute; }
+.div-ferty {border:40px solid gray;font-size:60px;font-family:calibri;position:static;}
+.div-ger {border:40px solid #ffe1e1;font-size:60px;font-family:calibri;position:static;}
